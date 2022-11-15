@@ -39,7 +39,7 @@ The following assumptions were considered in the design of the system:
 -	User updates the item stock when deliveries and sales are made. 
 -	User updates delivery person as needed.
 
-DESIGN
+DESIGN:
 
 The database: 
 
