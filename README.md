@@ -1,7 +1,10 @@
 # robinshardware
 ROBIN'S HARDWARE STORE INVENTORY DATABASE 
+
 Documentation Prepared by Makayla Lerner 
+
 For INSC 484: Database Applications 
+
 On October 14, 2022 
 
 DESCRIPTION: 
