@@ -61,10 +61,15 @@ APPENDIX
 The system was tested and created using data inspired by Stardew Valley, a video game by ConcernedApe. Data was loaded by pasting into DB Browser, as the assignment did not permit the use of other libraries. The csv files created from the wiki site are attached and the sites are referenced below. Other data including item quantities, addresses, and phone numbers were randomly generated. 
 
 ConcernedApe. (2016). Stardew Valley. Retrieved October 14, 2022, from https://www.stardewvalley.net/ 
+
 Stardew Valley Wiki. (2021, October 25). Marnie's ranch. Stardew Valley Wiki. Retrieved October 14, 2022, from https://stardewvalleywiki.com/Marnie%27s_Ranch 
+
 Stardew Valley Wiki. (2022, August 13). Blacksmith. Stardew Valley Wiki. Retrieved October 14, 2022, from https://stardewvalleywiki.com/Blacksmith 
+
 Stardew Valley Wiki. (2022, August 29). Carpenter's shop. Stardew Valley Wiki. Retrieved October 14, 2022, from https://stardewvalleywiki.com/Carpenter%27s_Shop 
+
 Stardew Valley Wiki. (2022, August 7). Pierre's General Store. Stardew Valley Wiki. Retrieved October 14, 2022, from https://stardewvalleywiki.com/Pierre%27s_General_Store 
+
 Stardew Valley Wiki. (2022, September 6). Fish shop. Stardew Valley Wiki. Retrieved October 14, 2022, from https://stardewvalleywiki.com/Fish_Shop 
 
 
