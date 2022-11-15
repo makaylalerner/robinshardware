@@ -1,0 +1,127 @@
+﻿Apple Sapling,L,10.00,27,3
+Apricot Sapling,L,20.00,88,3
+Barn,X,300.00,72,4
+Barrel Brazier Recipe,X,300.00,67,4
+Basic Fertilizer,L,2000.00,97,3
+Basic Log,B,2000.00,18,4
+Basic Retaining Soil,L,1000.00,50,3
+Basic Window,H,3000.00,12,4
+Bed,H,2000.00,40,4
+Big Barn,X,700.00,73,4
+Big Coop,X,750.00,2,4
+Big Shed,X,4500.00,69,4
+Bouquet,H,200000.00,21,3
+Brick Fireplace,H,400.00,87,4
+Brick Floor Recipe,B,250.00,79,4
+Budget TV,H,350.00,59,4
+Calendar,H,1000.00,37,4
+Carved Brazier Recipe,X,1500.00,19,4
+Catalogue,X,3000.00,68,3
+Cherry Sapling,L,6000.00,48,3
+Child Bed,H,500.00,23,4
+Coal,B,2000.00,56,1
+Coop,X,2000.00,53,4
+Copper Axe,T,250.00,52,1
+Copper Hoe,T,400.00,39,1
+Copper Ore,T,800.00,43,1
+Copper Pickaxe,T,800.00,37,1
+Copper Trash Can,T,1000.00,81,1
+Copper Watering Can,T,2000.00,70,1
+Crystal Path Recipe,B,3000.00,97,4
+Deluxe Barn,X,5000.00,73,4
+Deluxe Coop,X,500.00,49,4
+Deluxe Red Double Bed,H,1000.00,24,4
+Deluxe Speed-Gro,L,100.00,82,3
+Double Bed,H,100.00,12,4
+Fish Pond,L,500.00,62,4
+Floor TV,H,100.00,38,4
+Flooring,B,200.00,16,4
+Furniture Catalogue,H,200.00,2,4
+Gold Axe,T,"6,000",63,1
+Gold Brazier Recipe,X,"12,000",82,4
+Gold Hoe,T,"25,000",63,1
+Gold Ore,T,"4,000",78,1
+Gold Pickaxe,T,"10,000",51,1
+Gold Trash Can,T,"20,000",70,1
+Gold Watering Can,T,"5,000",36,1
+Grass Starter,L,"2,500",66,3
+Iridium Axe,T,"15,000",80,1
+Iridium Hoe,T,"20,000",29,1
+Iridium Pickaxe,T,100,31,1
+Iridium Trash Can,T,"10,000",30,1
+Iridium Watering Can,T,"10,000",36,1
+Iron Lamp-post Recipe,X,"1,000",7,4
+Iron Ore,B,100,24,1
+Log Cabin,X,100,46,4
+Log Section,B,100,84,4
+Marble Brazier Recipe,L,250,48,4
+Mill,X,100.00,15,4
+Mini-Fridge,H,100.00,73,4
+Oil,X,100.00,51,3
+Orange Sapling,L,200.00,1,3
+Peach Sapling,L,200.00,5,3
+Plank Cabin,X,200.00,96,4
+Plasma TV,H,100.00,12,4
+Pomegranate Sapling,L,150.00,28,3
+Quality Fertilizer,L,100.00,81,3
+Quality Retaining Soil,L,150.00,74,3
+Rice,M,100.00,88,3
+Seasonal Plant,L,150.00,1,3
+Shed,X,100.00,13,4
+Shipping Bin,X,100.00,38,4
+Silo,X,3400.00,100,4
+Skull Brazier Recipe,X,2000.00,4,4
+Slime Hutch,X,4000.00,15,4
+Small Window,H,6000.00,69,4
+Speed-Gro,L,6000.00,92,3
+Stable,X,4000.00,83,4
+Steel Axe,T,30000.00,98,1
+Steel Hoe,T,200.00,53,1
+Steel Pickaxe,T,2000.00,29,1
+Steel Trash Can,T,2000.00,9,1
+Steel Watering Can,T,2000.00,67,1
+Stepping Stone Path Recipe,L,2000.00,93,4
+Stone,B,5000.00,15,4
+Stone Brazier Recipe,X,5000.00,68,4
+Stone Cabin,X,5000.00,10,4
+Stone Fireplace,H,5000.00,27,4
+Stone Floor Recipe,B,10000.00,15,4
+Stove Fireplace,H,10000.00,63,4
+Straw Floor Recipe,X,10000.00,95,4
+Stump Brazier Recipe,X,10000.00,95,4
+Sugar,X,25000.00,51,3
+Telephone,H,25000.00,72,4
+Vinegar,X,25000.00,14,3
+Wallpaper,P,25000.00,71,3
+Well,X,12500.00,61,4
+Wheat Flour,X,1000.00,96,3
+Wood,B,5000.00,16,4
+Wood Chipper,M,25000.00,69,4
+Wood Floor Recipe,X,75.00,71,4
+Wood Lamp-post Recipe,X,150.00,83,4
+Wooden Brazier Recipe,X,150.00,12,4
+Workbench,M,400.00,45,4
+Paint Gallon,P,200.00,65,4
+Wood Stain Light,P,100.00,22,4
+Wood Stain Dark,P,100.00,16,4
+Small Hay Bale,L,50.00,88,2
+Large Hay Bale,L,100.00,24,2
+Auto-Grabber,M,25000.00,91,2
+Shears,T,1000.00,86,2
+Milk Pail,T,1000.00,25,2
+Ornamental Hay Bale,L,250.00,59,2
+Golden Egg,X,100000.00,80,2
+Trout Soup,X,250,30,5
+Bait,T,5,7,5
+Crab Pot,T,"1,500",74,5
+Spinner,T,500,57,5
+Trap Bobber,T,500,60,5
+Lead Bobber,T,200,84,5
+Treasure Hunter,T,750,62,5
+Barbed Hook,T,"1,000",58,5
+Magnet,T,"1,000",78,5
+Fiberglass Rod,T,"1,800",73,5
+Training Rod,T,25,55,5
+Large Fish Tank,H,"2,000",51,5
+Deluxe Fish Tank,H,"5,000",12,5
+Fisher Double Bed,H,"25,000",67,5
